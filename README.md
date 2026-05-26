@@ -272,7 +272,7 @@ Coffee Power    ██████████  100%
   Two things define you: Your patience when you have nothing, 
   and your attitude when you have everything."
 
-  — Imam Ali (A.S.)
+  — Imam Moula Ali (A.S.)
 ---
 </center>
 </p>
