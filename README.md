@@ -267,7 +267,7 @@ Coffee Power    ██████████  100%
 !-- ========================= SPIRITUAL QUOTE BLOCK ========================= -->
 
 # 🌌 WORDS OF WISDOM
-
+<p>
 ```yaml
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                      IMAM ALI IBN ABI TALIB (A.S.)                   ║
@@ -279,6 +279,7 @@ Coffee Power    ██████████  100%
 
   — Imam Ali (A.S.)
 ---
+</p>
 
 # 🌐 CONNECT WITH ME
 
