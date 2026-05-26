@@ -264,7 +264,6 @@ Coffee Power    ██████████  100%
 </p>
 
 ---
-!-- ========================= SPIRITUAL QUOTE BLOCK ========================= -->
 
 # 🌌 WORDS OF WISDOM
 <center>
