@@ -19,19 +19,15 @@
 <!-- ========================= SOCIAL LINKS ========================= -->
 
 <p align="center">
-
 <a href="https://github.com/mudasirsaleemganie">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://linkedin.com/in/mudasir-saleem-ganie-0a4511374">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="https://instagram.com/mudasir_saleem_ganie">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-
 </p>
 
 ---
@@ -39,13 +35,9 @@
 <!-- ========================= PROFILE VIEWS ========================= -->
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=mudasirsaleemganie&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/mudasirsaleemganie?logo=github&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/stars/mudasirsaleemganie?logo=github&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -85,7 +77,7 @@ currently:
 skills:
   ★ MERN Stack Development
   ★ REST APIs & Backend Systems
-  ★ JavaScript, Python & Java
+  ★ JavaScript, Python, Java, C++
   ★ MongoDB & MySQL
   ★ React.js & Node.js
 
@@ -129,30 +121,12 @@ motto:
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mudasirsaleemganie&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirsaleemganie&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudasirsaleemganie&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 💻 TECH ARSENAL
 
 ## 🔤 LANGUAGES
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,c++,javascript,python" width="400"/>
 </p>
 
 ---
@@ -206,6 +180,25 @@ Python Automation · AI Fundamentals
 
 ---
 
+# 🎓 GUIDANCE FOR BCA STUDENTS (15+)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Guidance-For%20BCA%20Students-blue?style=for-the-badge"/>
+</p>
+
+If you're a BCA student aiming to grow in tech, I’m here to help! With 15+ students mentored, I focus on:
+
+- Core Programming Concepts (Java, C++, Python)
+- Data Structures & Algorithms (DSA)
+- MERN Stack Development
+- AI/ML Applications
+- Project-Based Learning
+- Interview Preparation & Career Advice
+
+Feel free to connect with me, and I’ll guide you on your tech journey!
+
+---
+
 # 🏆 ACHIEVEMENTS
 
 ```text
@@ -216,36 +209,6 @@ Python Automation · AI Fundamentals
 🔥 Daily GitHub Learner
 🌟 Passionate Full-Stack Developer
 ```
-
----
-
-# 📈 TOP LANGUAGES
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirsaleemganie&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://github.com/mudasirsaleemganie/mudasirsaleemganie/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mudasirsaleemganie&theme=algolia&row=1&column=6&no-frame=true"/>
-
-</p>
 
 ---
 
@@ -291,9 +254,7 @@ Coffee Power    : ██████████ 100%
 # 💬 DEVELOPER QUOTE
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -301,9 +262,7 @@ Coffee Power    : ██████████ 100%
 # 🎵 SPOTIFY STATUS
 
 <p align="center">
-
 <img src="https://novatorem.vercel.app/api/spotify"/>
-
 </p>
 
 ---
@@ -311,19 +270,15 @@ Coffee Power    : ██████████ 100%
 # 🤝 LET'S CONNECT & COLLABORATE
 
 <p align="center">
-
 <a href="https://github.com/mudasirsaleemganie">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://linkedin.com/in/mudasir-saleem-ganie-0a4511374">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://instagram.com/mudasir_saleem_ganie">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
-
 </p>
 
 ---
@@ -331,9 +286,7 @@ Coffee Power    : ██████████ 100%
 # 👀 VISITOR COUNTER
 
 <p align="center">
-
 <img src="https://visitcount.itsvg.in/api?id=mudasirsaleemganie&icon=5&color=12"/>
-
 </p>
 
 ---
