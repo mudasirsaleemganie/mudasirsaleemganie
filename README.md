@@ -264,7 +264,20 @@ Coffee Power    ██████████  100%
 </p>
 
 ---
+!-- ========================= SPIRITUAL QUOTE BLOCK ========================= -->
 
+# 🌌 WORDS OF WISDOM
+
+```yaml
+╔══════════════════════════════════════════════════════════════════════╗
+║                      IMAM ALI IBN ABI TALIB (A.S.)                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+ "Beautiful thoughts bring beautiful realities. 
+  Two things define you: Your patience when you have nothing, 
+  and your attitude when you have everything."
+
+  — Imam Ali (A.S.)
 ---
 
 # 🌐 CONNECT WITH ME
