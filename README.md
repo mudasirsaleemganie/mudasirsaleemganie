@@ -1,22 +1,22 @@
-<!-- ========================= CYBERPUNK HEADER ========================= -->
+<!-- ========================= FUTURISTIC HEADER ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Mudasir%20Saleem%20Ganie&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Mudasir%20Saleem%20Ganie&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mudasir Saleem Ganie</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🤖 AI/ML Learner • 🚀 MERN Stack Enthusiast
+🚀 Full Stack Developer • 🤖 AI/ML Learner • 💻 MERN Stack Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=MCA+Student+at+Kashmir+University;Full+Stack+MERN+Developer;Learning+AI%2FML+and+Data+Science;Building+Kashur+Editor;Future+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=MCA+Student+at+Kashmir+University;Full+Stack+MERN+Developer;Learning+Artificial+Intelligence;Exploring+Machine+Learning+%26+Data+Science;Building+Kashur+Editor;Open+Source+Contributor;Future+Software+Engineer"/>
 </p>
 
 ---
 
-<!-- ========================= SOCIALS ========================= -->
+<!-- ========================= SOCIAL LINKS ========================= -->
 
 <p align="center">
 
@@ -36,90 +36,100 @@
 
 ---
 
-<!-- ========================= PROFILE STATS ========================= -->
+<!-- ========================= PROFILE VIEWS ========================= -->
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mudasirsaleemganie&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mudasirsaleemganie&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/mudasirsaleemganie?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/followers/mudasirsaleemganie?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/mudasirsaleemganie?style=social"/>
+<img src="https://img.shields.io/github/stars/mudasirsaleemganie?logo=github&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<!-- ========================= GIF ========================= -->
+<!-- ========================= CODING GIF ========================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 🧑‍💻 WHO AM I ?
 
 ```yaml
-Name      : Mudasir Saleem Ganie
-Location  : Kashmir, India
-Education : MCA @ Kashmir University
-Focus     : MERN Stack + AI/ML
-Learning  : Data Science & DSA
-Project   : Kashur Editor
-Goal      : Full Stack AI Engineer
+╔══════════════════════════════════════════════════════════════════════╗
+║                  MUDASIR SALEEM GANIE — DEV CARD                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+name        : Mudasir Saleem Ganie
+location    : Kashmir, India 🇮🇳
+role        : Full-Stack Developer | MCA Student
+focus       : MERN Stack + Artificial Intelligence
+research    : AI/ML + Data Science 🤖📊
+
+education:
+  ◉ MCA  → University of Kashmir
+  ◉ BCA  → Computer Applications
+
+currently:
+  ◆ 🚀 Building Kashur Editor
+  ◆ 🤖 Learning Artificial Intelligence & ML
+  ◆ 📚 Practicing DSA & Problem Solving
+  ◆ 🌐 Exploring Full-Stack Development
+  ◆ 💡 Building Real-World Projects
+
+skills:
+  ★ MERN Stack Development
+  ★ REST APIs & Backend Systems
+  ★ JavaScript, Python & Java
+  ★ MongoDB & MySQL
+  ★ React.js & Node.js
+
+motto:
+  "Code. Learn. Build. Repeat. 🚀"
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🔬 CURRENT FOCUS — AI & FULL STACK DEVELOPMENT
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,mysql,firebase,tensorflow,linux,git,github,vscode,postman,figma,vercel,netlify,npm,bash&perline=8"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Research-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Development-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Learning-orange?style=for-the-badge"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | 💡 Description | ⚒️ Tech |
-|---|---|---|
-| 🖋 Kashur Editor | Smart Kashmiri Writing Platform | MERN |
-| 🏫 Campus Care System | University Management System | Node.js |
-| 🍔 Delight Bites | Modern Restaurant Website | HTML/CSS |
-| 🛒 Fruit Market | MERN E-Commerce Platform | React + MongoDB |
-| 📊 Data Science Projects | AI/ML & Python Projects | Python |
-| 💻 DSA Repository | Algorithms & Problem Solving | Java/C++ |
-
----
-
-# 🧠 Current Mission
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    🤖 AI / ML LEARNING                     │
+├─────────────────────────────────────────────────────────────┤
+│ ◈ Machine Learning & Predictive Models                     │
+│ ◈ Data Science using Python                                │
+│ ◈ Natural Language Processing                              │
+│ ◈ AI-powered Applications                                  │
+│ ◈ Problem Solving & DSA                                    │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ```text
-✔ Master MERN Stack
-✔ Learn Advanced AI/ML
-✔ Build Kashur Editor
-✔ Solve DSA Problems
-✔ Contribute to Open Source
-✔ Build Real-World Applications
+┌─────────────────────────────────────────────────────────────┐
+│                💻 FULL STACK DEVELOPMENT                   │
+├─────────────────────────────────────────────────────────────┤
+│ ◈ MERN Stack Applications                                  │
+│ ◈ RESTful API Development                                  │
+│ ◈ Authentication Systems                                   │
+│ ◈ MongoDB Database Design                                  │
+│ ◈ Modern Responsive UI                                     │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 💻 Developer Terminal
-
-```bash
-> initializing profile...
-
-██████████████████████████ 100%
-
-Welcome back, Developer 🚀
-System Status : ONLINE
-```
-
----
-
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -137,7 +147,79 @@ System Status : ONLINE
 
 ---
 
-# 📈 Top Languages
+# 💻 TECH ARSENAL
+
+## 🔤 LANGUAGES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp"/>
+</p>
+
+---
+
+## 🌐 FRONTEND
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+---
+
+## ⚙️ BACKEND & DATABASES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+</p>
+
+---
+
+## 🤖 AI / ML STACK
+
+```text
+NumPy · Pandas · Matplotlib · Scikit-learn
+Data Visualization · Machine Learning
+Python Automation · AI Fundamentals
+```
+
+---
+
+## 🛠️ DEV TOOLS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,vercel,netlify,npm,bash"/>
+</p>
+
+---
+
+# 🌟 PROJECT PORTFOLIO
+
+## 🚀 FEATURED PROJECTS
+
+| 🚀 Project | 💡 Description | ⚒️ Tech |
+|---|---|---|
+| 🖋 Kashur Editor | Kashmiri typing & smart editor | MERN |
+| 🏫 Campus Care System | University management system | Node.js |
+| 🍔 Delight Bites | Responsive restaurant website | HTML/CSS |
+| 🛒 Fruit Market | MERN eCommerce platform | React + MongoDB |
+| 📊 Data Science Projects | Python analysis & ML | Python |
+| 💻 DSA Repository | Algorithms & problem solving | Java/C++ |
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+```text
+🏆 Built Multiple MERN Projects
+🏅 Learning AI & Data Science
+🚀 Open Source Contributor
+💡 Solving DSA Problems
+🔥 Daily GitHub Learner
+🌟 Passionate Full-Stack Developer
+```
+
+---
+
+# 📈 TOP LANGUAGES
 
 <p align="center">
 
@@ -147,17 +229,7 @@ System Status : ONLINE
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mudasirsaleemganie&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -167,39 +239,56 @@ System Status : ONLINE
 
 ---
 
-# ⚙️ Developer Tools
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vercel,netlify,npm,bash"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mudasirsaleemganie&theme=algolia&row=1&column=6&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 Productivity
+# 💻 DEVELOPER TERMINAL
+
+```bash
+> initializing profile...
+
+██████████████████████████ 100%
+
+Welcome back, Developer 🚀
+Status      : ONLINE
+Learning    : AI / ML
+Mode        : CODING
+Focus       : BUILDING PROJECTS
+```
+
+---
+
+# 📊 PRODUCTIVITY
 
 ```text
 Coding Time     : ██████████ 90%
 Learning        : ██████████ 95%
 Debugging       : ████████░░ 80%
-Coffee Power    : ██████████ 100%
 Creativity      : █████████░ 90%
+Coffee Power    : ██████████ 100%
 ```
 
 ---
 
-# 📅 2026 Goals
+# 🎯 CURRENT GOALS
 
 - 🚀 Become Full Stack Engineer
 - 🤖 Master AI/ML
 - 🌍 Build Real-World Products
 - 📚 Crack Internship Opportunities
 - 🔥 Contribute to Open Source
+- 💻 Build Advanced MERN Applications
 
 ---
 
-# 💬 Developer Quote
+# 💬 DEVELOPER QUOTE
 
 <p align="center">
 
@@ -209,7 +298,7 @@ Creativity      : █████████░ 90%
 
 ---
 
-# 🎵 Spotify Status
+# 🎵 SPOTIFY STATUS
 
 <p align="center">
 
@@ -219,7 +308,7 @@ Creativity      : █████████░ 90%
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 LET'S CONNECT & COLLABORATE
 
 <p align="center">
 
@@ -239,7 +328,7 @@ Creativity      : █████████░ 90%
 
 ---
 
-# 👀 Visitor Counter
+# 👀 VISITOR COUNTER
 
 <p align="center">
 
@@ -250,7 +339,7 @@ Creativity      : █████████░ 90%
 ---
 
 <p align="center">
-⭐ Keep Learning • Keep Building • Keep Growing 🚀
+⭐ KEEP LEARNING • KEEP BUILDING • KEEP GROWING 🚀
 </p>
 
 <p align="center">
