@@ -292,13 +292,15 @@ Coffee Power    ██████████  100%
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github.com/mudasirsaleemganie/mudasirsaleemganie/blob/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/mudasirsaleemganie/mudasirsaleemganie/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+
+
 
 ---
 
