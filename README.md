@@ -252,13 +252,18 @@ Coffee Power    ██████████  100%
 
 ---
 
-# 🎵 SPOTIFY STATUS
+---
 
-<p align="center">
+# 📚 MY BOOKSHELF
 
-<img src="https://novatorem.vercel.app/api/spotify"/>
+### 🧠 Self-Improvement — *Books that shaped my mindset*
+### 🌱 Novels That Heal — *Stories of resilience & courage*
 
+<p align="left">
+<i>"Reading helps me grow, find peace, and connect with stories beyond my own life."</i>
 </p>
+
+---
 
 ---
 
@@ -277,19 +282,6 @@ Coffee Power    ██████████  100%
 <a href="https://instagram.com/mudasir_saleem_ganie">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
-
-</p>
-
----
-
-
-
----
-
-
-<p align="center">
-
-<img src="https://github.com/mudasirsaleemganie/mudasirsaleemganie/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
