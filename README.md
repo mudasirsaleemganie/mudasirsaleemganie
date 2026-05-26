@@ -282,17 +282,10 @@ Coffee Power    ██████████  100%
 
 ---
 
-# 👀 VISITOR COUNTER
 
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=mudasirsaleemganie&icon=5&color=12"/>
-
-</p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
