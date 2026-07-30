@@ -80,11 +80,10 @@ currently:
   ◆ 🌍 Exploring Open Source
 
 skills:
-  ★ JavaScript, Python, Java, C++
+  ★ JavaScript, Python, Java, C++,c
   ★ React.js, Node.js, Express.js
   ★ MongoDB & MySQL
   ★ REST APIs & Backend Systems
-  ★ Git, GitHub & Linux
 
 motto:
   "Code. Learn. Build. Repeat. 🚀"
@@ -176,13 +175,7 @@ motto:
 
 </td>
 
-<td width="50%">
-
-## 🛒 Fruit Market System
-✔ MERN Stack Project  
-✔ Product Dashboard  
-✔ MongoDB Database  
-✔ Shopping Features  
+<td width="50%">  
 
 </td>
 </tr>
@@ -203,11 +196,9 @@ motto:
 
 ◈ Programming Fundamentals
 ◈ MERN Stack Development
-◈ Git & GitHub
 ◈ Data Structures & Algorithms
 ◈ Project Development
 ◈ Career Guidance
-◈ Open Source Basics
 ```
 
 ---
@@ -240,30 +231,6 @@ Debugging       ████████░░  82%
 Coffee Power    ██████████  100%
 ```
 
----
-
-# 🌌 DEVELOPER QUOTE
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
----
-
-# 📚 MY BOOKSHELF
-
-### 🧠 Self-Improvement — *Books that shaped my mindset*
-### 🌱 Novels That Heal — *Stories of resilience & courage*
-
-<p align="left">
-<i>"Reading helps me grow, find peace, and connect with stories beyond my own life."</i>
-</p>
-
----
 
 # 🌌 WORDS OF WISDOM
 <center>
